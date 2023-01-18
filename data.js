@@ -265,6 +265,17 @@ const data = [
     difficulty: 5,
     desc:"freeCodeCamp Quality Assurance Certification's challenge.",
   },
+  {
+    id: 24,
+    category: 'Vanilla-js',
+    title: 'my portfolio',
+    img: './images/my-portfolio.png',
+    url: 'https://brilliant-selkie-3f8562.netlify.app/',
+    codeUrl:
+      'https://github.com/IsTaro/my-portfolio',
+    difficulty: 3,
+    desc:"my portfolio.",
+  },
 ]
 
 export { data, links }
